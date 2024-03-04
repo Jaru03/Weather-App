@@ -4,7 +4,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('../img/ssky.jpg');
+    background-image: url('../img/sky.jpg');
     background-size: cover;
     background-position: center;
 }
