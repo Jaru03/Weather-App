@@ -1,0 +1,25 @@
+.err__card{
+
+    .err__tittle{
+
+        font-size: 4em;
+    }
+    .err__p{
+
+        text-align: center;
+        font-size: 1.2em;
+
+        .err__label{
+            font-weight: 500;
+        }
+
+        .err__value{
+            font-weight: bold;
+        }
+
+    }
+
+    .text{
+        margin: 1em;
+    }
+}
