@@ -10,7 +10,7 @@ const WeatherCard = ({ weather, temp }) => {
 
   return (
     <article className="weather">
-      <h1 className="weather__tittle">Weathe App</h1>
+      <h1 className="weather__tittle">Weather App</h1>
       <h2 className="weather__country">
         {weather?.name} {weather?.sys.country}
       </h2>
